@@ -4,7 +4,6 @@ import java.io.InputStreamReader;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.Scanner;
-//import java.util.;
 
 public class InputScanner 
 {
